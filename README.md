@@ -20,5 +20,8 @@
 > This file contains the founction used in the item.
 4. main.py
 > This file is the model training file.
-6. Comparison models are stored in the 'Comparison Models' folder.
+### How to run CS-LightGCL
+* command
+
+`python main.py `
 
